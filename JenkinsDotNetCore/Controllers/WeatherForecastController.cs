@@ -20,7 +20,7 @@ namespace JenkinsDotNetCore.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
-            _logger = logger;
+            _logger = loggerm;
         }
 
         [HttpGet]
