@@ -6,3 +6,4 @@
 /JenkinsDotNetCore/obj
 /JenkinsDotNetCore/.vs/JenkinsDotNetCore
 /.vs
+/JenkinsDotNetCore/bin/Release/net5.0
